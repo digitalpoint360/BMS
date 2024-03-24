@@ -6,7 +6,7 @@
 
   <groupId>digitalpoint.tech</groupId>
   <artifactId>bms</artifactId>
-  <packaging>pom</packaging>
+  <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
   <name>bms Maven Webapp</name>
   <url>http://maven.apache.org</url>
